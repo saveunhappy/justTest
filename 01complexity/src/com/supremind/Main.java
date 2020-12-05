@@ -141,5 +141,6 @@ public class Main {
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i] + c);
         }
+		//什么都没做，测试一下。
     }
 }
